@@ -15,6 +15,10 @@ Name | Permission
 `system_feedback_access` | can send feedback
 `system_trust_basic` | basic trust level
 `system_trust_intermediate` | intermediate trust level
+`system_trust_veteran` | veteran trust level
+`system_trust_known` | known trust level
+`system_trust_trusted` | trusted trust level
+`system_trust_legend` | legend trust level
 `system_legend` | Probably means the user spends alot of time in the game
 `system_probable_troll` | Probably been reported multiple times and is (probably) a troll
 `system_troll` | Probably confirmed troll.
